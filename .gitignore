@@ -1,0 +1,11 @@
+Makefile
+config.h
+config.log
+config.status
+darts
+darts.h
+darts.o
+mkdarts
+mkdarts.o
+stamp-h
+tests/linux.words.dar
